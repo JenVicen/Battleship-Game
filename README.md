@@ -41,7 +41,7 @@ To run the Battleship game, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/battleship-game.git
+   git clone https://github.com/JenVicen/Battleship-Game.git
    ```
 
 2. **Navigate to the Project Directory**:
